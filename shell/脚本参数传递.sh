@@ -80,7 +80,7 @@ fi
 # ./a.sh hello
 # hello
 
-# ./s.sh
+# ./a.sh
 # null args
 
 
